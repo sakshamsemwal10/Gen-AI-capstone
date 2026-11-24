@@ -1,6 +1,5 @@
 # Lab Record: Assignment 5, ETMMGA304 Generative AI and Its Applications
 
-**Student:** ____________________  **Roll no.:** ____________  **Programme:** MCA
 
 Fill in each blank table from **your own run**. The *expected ranges* below
 are approximate values for the default settings, to help you spot a broken
